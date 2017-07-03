@@ -33,7 +33,7 @@
 
 /* Navbar item */
 .navbar-wagon-item {
-  flex: 0 1 auto;
+  flex: 1 0 auto;
   cursor: pointer;
   padding: 0 20px;
 }
@@ -60,7 +60,7 @@
   border: 2px solid #D23333;
 }
 .navbar-wagon-button:hover {
-  color: white;
+  color: lightgrey;
   background: #D23333;
   border-color: #ac2626;
 }
